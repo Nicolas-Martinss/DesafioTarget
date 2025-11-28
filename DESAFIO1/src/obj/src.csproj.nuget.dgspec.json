@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\DesafioTarget\\DESAFIO1\\src\\src.csproj": {}
+    "C:\\DesafioTarget\\DESAFIO1\\src\\src.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\DesafioTarget\\DESAFIO1\\src\\src.csproj": {
+    "C:\\DesafioTarget\\DESAFIO1\\src\\src.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\DesafioTarget\\DESAFIO1\\src\\src.csproj",
+        "projectUniqueName": "C:\\DesafioTarget\\DESAFIO1\\src\\src.csproj",
         "projectName": "src",
-        "projectPath": "C:\\Users\\nicol\\DesafioTarget\\DESAFIO1\\src\\src.csproj",
+        "projectPath": "C:\\DesafioTarget\\DESAFIO1\\src\\src.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\DesafioTarget\\DESAFIO1\\src\\obj\\",
+        "outputPath": "C:\\DesafioTarget\\DESAFIO1\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
